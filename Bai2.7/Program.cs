@@ -10,7 +10,6 @@ namespace BaiVeNha2_7
     {
         static void Main(string[] args)
         {
-            //
             int tienGui, soThangGui;
             double laiSuatNam;
             Console.WriteLine("Nhap vao so tien gui: ");
